@@ -1,0 +1,62 @@
+body{
+	background-color: #150000;
+}
+#navbar {
+	border: 0;
+	margin-bottom: 5px;
+    height: 30px;
+}
+.navbar-fixed {
+    top: 0;
+    z-index: 100;
+  	position: fixed;
+    width: 100%;
+    background-color: white;
+} /*for scroll*/
+.navelements{
+    margin: 0;
+}
+.navelements li {
+	display: inline-block;
+    margin:0px;
+    width: 100%;
+    text-align: center;
+}
+.Convbox{
+	width:100%;
+	background-color: #381225;
+	border-radius:5px;
+	box-shadow: 3px 3px 5px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+a{
+	color: white;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+#cr{
+	text-align: center;
+	color: #9FCBAF;
+}
+#rate{
+	text-align: center;
+	color: #9FCBAF;
+}
+form{
+	text-align: center;
+}
+.white{
+	color:white;
+}
+#label{
+	padding-right: 20px;
+}
+.optext{
+	color: white;
+	padding-top: 25px;
+	font-size: 20px;
+	text-align: center;
+}
